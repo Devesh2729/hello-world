@@ -1,2 +1,2 @@
 # hello-world
- 
+Because I have a strong interest in full stack development, I chose this course. I think the course offers a great opportunity to broaden my skill set and learn a variety of programming languages after reading the course description. This programme offers a complete platform to develop new skills and knowledge in the sector, which perfectly complements my enthusiasm for full stack development.
